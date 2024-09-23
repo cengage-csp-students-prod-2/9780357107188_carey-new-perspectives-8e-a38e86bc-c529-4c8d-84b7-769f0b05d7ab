@@ -1,12 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Enter your name (First + Last) into the `Author:` field of code1-1.html file.
-Reason: 'Author: {YOUR NAME}' was found in the program output.None
-Timestamp: 2024-09-23 20:39:33.405939
+Reason: Unable to find 'Author: {YOUR NAME}' in the program.
+Error : str - AssertionError
+Timestamp: 2024-09-23 20:40:57.933859
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: "Date" added to comment section of the file code1-1.html in the format MM/DD/YYYY
-Reason: 'Date: {DATE}' was found in the program output.None
-Timestamp: 2024-09-23 20:39:33.406236
+Reason: Unable to find 'Date: {DATE}' in the program.
+Error : str - AssertionError
+Timestamp: 2024-09-23 20:40:57.934105
