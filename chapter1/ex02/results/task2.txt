@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Mark the text 'Revelation' as an h1 heading and the text 'by Robert Frost' as an h2 heading
+Reason: Assertion failed: unexpectedly None : Webpage does not contain an h1 element within the body
+Error : AssertionError - unexpectedly None : Webpage does not contain an h1 element within the body
+Timestamp: 2024-09-23 20:26:39.350950
