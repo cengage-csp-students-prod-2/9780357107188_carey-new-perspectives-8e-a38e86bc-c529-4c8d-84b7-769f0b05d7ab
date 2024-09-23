@@ -6,5 +6,6 @@
         "**/*.csproj": true,
         "**/bin": true,
         "**/obj": true
-    }
+    },
+    "livePreview.defaultPreviewPath": "/code1-1.html"
 }
