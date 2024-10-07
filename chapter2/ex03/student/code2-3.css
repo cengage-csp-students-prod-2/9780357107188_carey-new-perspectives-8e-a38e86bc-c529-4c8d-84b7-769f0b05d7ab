@@ -5,9 +5,37 @@
    Tutorial 2
    Coding Challenge 3
 
-   Author: 
-   Date:   
+   Author: Nia LaCour 
+   Date: 10/07/2024
    
    Filename: code2-3.css
 
 */
+
+html{
+   padding-left: 30px;
+   background-color: hsla(40, 80%, 75%, 0.5);
+}
+
+h1, h2{
+   font-family: "Helvetica, Arial, sans-serif";
+}
+
+h1 {
+   font-size: 3em;
+   line-height: 1em;
+   margin-bottom: 0;
+}
+
+h2{
+   margin-top: 0;
+   font-style: italic;
+   font-weight: normal;
+}
+
+img{
+   margin-top: 0;
+   margin-right: 0;
+   margin-bottom: 10px;
+   margin-left: 20px;
+}
