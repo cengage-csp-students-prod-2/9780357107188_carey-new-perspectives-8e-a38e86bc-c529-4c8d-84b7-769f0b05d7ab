@@ -38,7 +38,7 @@ aside h2 {
 
 aside p {
    font-size: 1.1em;
-   text-ident: 1em;
+   text-indent: 1em;
 }
 
 aside p:first of type {
