@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: For `h1` headings that are direct children of the `nav` element set the `font-size` to 1.2em.
 Reason: None
-Timestamp: 2024-10-07 16:42:27.475159
+Timestamp: 2024-10-07 16:43:08.432385
 
 Status: PASSED!
 Check: 2
 Test: For `h1` headings that are direct children of the `nav` element set the font's `color` to white.
 Reason: None
-Timestamp: 2024-10-07 16:42:27.493630
+Timestamp: 2024-10-07 16:43:08.451355
 
 Status: PASSED!
 Check: 3
 Test: For `h1` headings that are direct children of the `nav` element set the `background-color` to black.
 Reason: None
-Timestamp: 2024-10-07 16:42:27.511324
+Timestamp: 2024-10-07 16:43:08.470181
 
 Status: PASSED!
 Check: 4
 Test: For `h1` headings that are direct children of the `nav` element set the `text-align` property to center.
 Reason: None
-Timestamp: 2024-10-07 16:42:27.526990
+Timestamp: 2024-10-07 16:43:08.486146
