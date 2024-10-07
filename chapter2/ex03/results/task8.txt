@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: For all paragraphs, set the font size to 1.4em.
+Reason: None
+Timestamp: 2024-10-07 17:17:18.498021
+
+Status: PASSED!
+Check: 2
+Test: For the first paragraph, set the text indent to 0.
+Reason: None
+Timestamp: 2024-10-07 17:17:18.513553
+
+Status: PASSED!
+Check: 3
+Test: For the first line of the first paragraph, set the font variant to small-caps.
+Reason: None
+Timestamp: 2024-10-07 17:17:19.547328
